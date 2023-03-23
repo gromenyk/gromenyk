@@ -2,6 +2,7 @@
 ***
 ## About myself  
 Hi, my name is Gerardo Romeny. I´m currently learning Full Stack Web Development in a Bootcamp from Universidad del Desarrollo, Chile, so what I have been learning is:
+
 [![HTML](./icons/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](./icons/css-3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JS](./icons/js.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
