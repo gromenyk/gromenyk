@@ -1,2 +1,2 @@
-#**Gerardo Romeny K.**
-***
+#Gerardo Romeny K.
+##About myself
